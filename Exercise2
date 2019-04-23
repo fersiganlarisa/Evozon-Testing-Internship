@@ -1,0 +1,16 @@
+Unul dintre defectele pe care eu le-am observat este sectiunea de "contact-us"(https://www.evozon.com/contact-us), 
+unde la campul pentru email nu exista validare, se poate introduce orice, validarea apare abia dupa ce se face "send".
+O alta problema tot aici, consider ca este faptul ca se face un call de fiecare data cand se apasa pe "send", 
+indiferent daca datele sunt corecte sau gresite. 
+
+La pagina https://www.evozon.com/software-development-company-romania/technology-partnerships , toate titlurile (precum IBM Business Partners...) 
+apar casi cum ar fi hyperlink-uri, dar nu sunt, ceea ce eu consider ca nu e bine.
+
+La sectiunea "internships-and-trainings" (https://www.evozon.com/careers/internships-and-trainings), consider ca pagina ar fi putut fi mult mai interactiva,
+si sa permita mai multe accese pe baza de butoane si nu doar o poza.
+
+Pe langa toate acestea am gasit ca observat ca apar doua erori in consola:
+      -Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+      -12-data.js:576 Refused to connect to 'wss://ws8.hotjar.com/api/v1/client/ws' because it violates the following Content Security Policy
+      directive: "default-src https: data: 'unsafe-inline' 'unsafe-eval'".
+
